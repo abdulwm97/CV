@@ -22,7 +22,7 @@ h3{
     font-size: larger;
 }
 .navBar:hover{
-    background-color: grey;
+    background-color: lightgrey;
 }
 /*************id selector***************/
 /* #navBar{
