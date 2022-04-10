@@ -1,3 +1,4 @@
+/*************tag selector***************/
 body{
     background-color: aliceblue;
 }
@@ -15,7 +16,16 @@ h3{
     color: #66BFBF;
     font-style: italic;
 }
+/************class selector**************/
 .navBar{
     font-weight: bold;
     font-size: larger;
 }
+.navBar:hover{
+    background-color: grey;
+}
+/*************id selector***************/
+/* #navBar{
+    font-weight: bold;
+    font-size: larger;
+} */
